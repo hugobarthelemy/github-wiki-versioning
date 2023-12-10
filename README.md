@@ -1,2 +1,7 @@
-# github-wiki-versioning
-Exemple of repository with GitHub wiki versioning
+# Goal of this project
+
+Manage GitHub wiki as code directly from the main repository.
+
+# How?
+
+=> https://github.com/hugobarthelemy/github-wiki-versioning/wiki
